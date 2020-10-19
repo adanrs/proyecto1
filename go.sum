@@ -1,0 +1,6 @@
+github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
+github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/osolano1991/Sistemas-Distribuidos v0.0.0-20200829032047-ed4d2f5c168f h1:4rTimEplmrb798xlerekTAXkxROVXMgQVuJUhTE3UrM=
+github.com/osolano1991/Sistemas-Distribuidos v0.0.0-20200829032047-ed4d2f5c168f/go.mod h1:RKk0lpE8dl2V3Kz61myTf0HLUnAIYC6nu72RXbgvRWc=
